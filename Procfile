@@ -1,1 +1,1 @@
-worker: npm start
+worker: seasson.json8data
